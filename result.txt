@@ -1,0 +1,766 @@
+---
+FieldType: Text
+FieldName: Patient Information  PRINT
+FieldNameAlt: Patient Information  (PRINT)
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Concomitant Medication
+FieldNameAlt: Concomitant Medication
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Healthcare Provider Conducting Patient Monitoring PRINT
+FieldNameAlt: Healthcare Provider Conducting Patient Monitoring (PRINT)
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Healthcare Setting Information  PRINT
+FieldNameAlt: Healthcare Setting Information  (PRINT)
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Patient Treatment Session Information Administration and Monitoring
+FieldNameAlt: Patient Treatment Session Information (Administration and Monitoring)
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Treatment Date
+FieldNameAlt: Treatment Date*
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: undefined
+FieldNameAlt: undefined
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Dose Administered
+FieldNameAlt: Dose Administered*
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: 56 mg
+FieldNameAlt: 56 mg
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: 84 mg
+FieldNameAlt: 84 mg
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: Other_2
+FieldNameAlt: Other
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Text
+FieldName: Treatment Duration
+FieldNameAlt: Treatment Duration*
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Vital signs were in acceptable range prior to  administration Yes No  treatment session completion Yes No
+FieldNameAlt: Vital signs were in acceptable range prior to:  administration? Yes No  treatment session completion? Yes No
+FieldFlags: 4096
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Did the patient experience Sedation andor Dissociation
+FieldNameAlt: Did the patient experience Sedation and/or Dissociation
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: Sedation
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: Sedation_No
+FieldStateOption: Sedation_Yes
+FieldStateOption: Off
+---
+FieldType: Text
+FieldName: undefined_9
+FieldNameAlt: undefined
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Medications given for dissociation
+FieldNameAlt: Medication(s) given for dissociation
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: If YES name and dose of medications 2
+FieldNameAlt: If YES, name and dose of medication(s [2]
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: If YES name and dose of medications 2_2
+FieldNameAlt: If YES, name and dose of medication(s [2]
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Patient Information  PRINT_2
+FieldNameAlt: Patient Information  (PRINT)
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Healthcare Provider Conducting Patient Monitoring PRINT_2
+FieldNameAlt: Healthcare Provider Conducting Patient Monitoring (PRINT)
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Serious Adverse Events PRINT
+FieldNameAlt: Serious Adverse Events (PRINT)
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Patient_First_Name_1
+FieldNameAlt: First Name*:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Patient_MI_1
+FieldNameAlt: MI:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Patient_Last_Name_1
+FieldNameAlt: Last Name*:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Patient_DOB_1
+FieldNameAlt: Birthdate* (MM/DD/YYYY):
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: Patient_Sex_1
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: Patient_Sex_Male
+FieldStateOption: Patient_Sex_Female
+FieldStateOption: Patient_Sex_Other
+FieldStateOption: Off
+---
+FieldType: Button
+FieldName: Medication_Benzo
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: Medication_Benzo_Yes
+FieldStateOption: Medication_Benzo_No
+FieldStateOption: Off
+---
+FieldType: Button
+FieldName: Medication_NonBenzo
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: Medication_NonBenzo_No
+FieldStateOption: Medication_NonBenzo_Yes
+FieldStateOption: Off
+---
+FieldType: Button
+FieldName: Medication_Psycho
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: Medication_Psycho_No
+FieldStateOption: Medication_Psycho_Yes
+FieldStateOption: Off
+---
+FieldType: Button
+FieldName: Medication_MAOI
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: Medication_MAOI_No
+FieldStateOption: Medication_MAOI_Yes
+FieldStateOption: Off
+---
+FieldType: Text
+FieldName: Provider_First_Name
+FieldNameAlt: First Name*:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Provider_Last_Name
+FieldNameAlt: Last Name*:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Provider_Phone
+FieldNameAlt: Telephone*:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Provider_Email
+FieldNameAlt: Email*:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Setting_Name
+FieldNameAlt: Healthcare Setting Name*:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Setting_Address_1
+FieldNameAlt: Healthcare Setting Address 1*:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Setting_Address_2
+FieldNameAlt: Healthcare Setting Address 2:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Setting_City
+FieldNameAlt: City*:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Setting_State
+FieldNameAlt: State*:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Setting_ZIP
+FieldNameAlt: ZIP*:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Session_Date
+FieldNameAlt: Date (MM/DD/YYYY):
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: Session_Dose
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: Session_Dose_56mg
+FieldStateOption: Session_Dose_84mg
+FieldStateOption: Off
+FieldStateOption: Session_Dose_Other
+---
+FieldType: Text
+FieldName: Session_Dose_Other
+FieldNameAlt: undefined
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Lot_Number
+FieldNameAlt: Lot Number
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Treatment_Duration
+FieldNameAlt: minutes (from 1st device administration to completion of monitoring
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Estimated_Time
+FieldNameAlt: If there was not a 2-hour minimum monitoring requirement, when would this patient have been
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: Session_Confirm_Vitals_Admin
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: Session_Confirm_Vitals_Admin_Yes
+FieldStateOption: Session_Confirm_Vitals_Admin_No
+FieldStateOption: Off
+---
+FieldType: Button
+FieldName: Session_Confirm_Vitals_Leave
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: Session_Confirm_Vitals_Leave_No
+FieldStateOption: Session_Confirm_Vitals_Leave_Yes
+FieldStateOption: Off
+---
+FieldType: Text
+FieldName: Session_BP_Prior
+FieldNameAlt: Prior to administration
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Session_BP_Post
+FieldNameAlt: 40 mins post-administration
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Session_BP_Leave
+FieldNameAlt: Prior to treatment session completion
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: Sedation_Onset_30_59
+FieldNameAlt: 30-59 mins
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: Sedation_Onset_60_89
+FieldNameAlt: 60-89 mins
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: Sedation_Onset_90_120
+FieldNameAlt: 90-120 mins
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: Sedation_Onset_Greater_120
+FieldNameAlt: 120 mins
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: Sedation_Resolve_2h
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: Sedation_Resolve_2h_Yes
+FieldStateOption: Off
+FieldStateOption: Sedation_Resolve_2h_No
+---
+FieldType: Text
+FieldName: Sedation_Greater_2h_Time
+FieldNameAlt: Resolution of symptoms within 2 hours
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: Sedation_Medications
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: Sedation_Medications_Yes
+FieldStateOption: Off
+FieldStateOption: Sedation_Medications_No
+---
+FieldType: Text
+FieldName: Sedation_Medication_Given
+FieldNameAlt: If YES, name and dose of medication(s [1]
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: Dissociation
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: Dissociation_Yes
+FieldStateOption: Dissociation_No
+FieldStateOption: Off
+---
+FieldType: Button
+FieldName: Sedation_Onset_1
+FieldNameAlt: Sedation_Onset
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: Sedation_Onset
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: Sedation_Onset_60_89
+FieldStateOption: Sedation_Onset_1_29
+FieldStateOption: Sedation_Onset_90_120
+FieldStateOption: Off
+FieldStateOption: Sedation_Onset_30_59
+FieldStateOption: Sedation_Onset_Greater_120
+---
+FieldType: Button
+FieldName: Dissociation_Onset
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: Dissociation_Onset_30_59
+FieldStateOption: Dissociation_Onset_Greater_120
+FieldStateOption: Dissociation_Onset_90_120
+FieldStateOption: Dissociation_Onset_1_29
+FieldStateOption: Off
+FieldStateOption: Dissociation_Onset_60_89
+---
+FieldType: Button
+FieldName: Dissocation_Resolve_2h
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: Dissocation_Resolve_2h_No
+FieldStateOption: Dissocation_Resolve_2h_Yes
+FieldStateOption: Off
+---
+FieldType: Text
+FieldName: Dissocation_Greater_2h_Time
+FieldNameAlt: Resolution of symptoms within 2 hours
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: Dissociation_Medications
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: Dissocation_Medication_Yes
+FieldStateOption: Off
+FieldStateOption: Dissocation_Medication_No
+---
+FieldType: Text
+FieldName: Dissociation_Medication_Given
+FieldNameAlt: If YES, name and dose of medication(s [1]
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Patient_First_Name_2
+FieldNameAlt: First Name*:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Patient_MI_2
+FieldNameAlt: MI:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Patient_Last_Name_2
+FieldNameAlt: First Name*:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Patient_DOB_2
+FieldNameAlt: Birthdate* (MM/DD/YYYY):
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: Patient_Sex_2
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: Patient_Sex_Male
+FieldStateOption: Patient_Sex_Other
+FieldStateOption: Patient_Sex_Female
+FieldStateOption: Off
+---
+FieldType: Text
+FieldName: Provider_First_Name_2
+FieldNameAlt: First Name*:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Provider_Last_Name_2
+FieldNameAlt: Last Name*:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Provider_Phone_2
+FieldNameAlt: Phone*:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Provider_Email_2
+FieldNameAlt: Email:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Session_Date_2
+FieldNameAlt: Treatment Date (MM/DD/YYYY):
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: Experience_SAE
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: Experience_SAE_Yes
+FieldStateOption: Experience_SAE_No
+FieldStateOption: Off
+---
+FieldType: Button
+FieldName: Event_Result_Hospitalization_1
+FieldNameAlt: Hospitalization
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: Event_Result_Disability_1
+FieldNameAlt: Disability or permanent damage
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: Event_Result_Death_1
+FieldNameAlt: Death
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: Event_Result_Life_Threat_1
+FieldNameAlt: Life-threatening
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: Event_Result_Medical_1
+FieldNameAlt: Important Medical Event
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: OccurrenceDuringTreatment_1
+FieldNameAlt: During treatment sessions
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: OccurrenceBetweenTreatment_1
+FieldNameAlt: Between treatment
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Text
+FieldName: Event_Date_1
+FieldNameAlt: MM/DD/YYYY
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Event_1
+FieldNameAlt: [1]
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: Event_Resolve_1
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: Event_Resolve_No
+FieldStateOption: Event_Resolve_Unknown
+FieldStateOption: Event_Resolve_Yes
+FieldStateOption: Off
+---
+FieldType: Text
+FieldName: Event_2
+FieldNameAlt: [1]
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Event_3
+FieldNameAlt: [1]
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: OccurrenceDuringTreatment_2
+FieldNameAlt: During treatment sessions
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: OccurrenceBetweenTreatment_2
+FieldNameAlt: Between treatment
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Text
+FieldName: Event_Date_2
+FieldNameAlt: MM/DD/YYYY
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: Event_Result_Hospitalization_2
+FieldNameAlt: Hospitalization
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: Event_Result_Disability_2
+FieldNameAlt: Disability or permanent damage
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: Event_Result_Death_2
+FieldNameAlt: Death
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: Event_Result_Life_Threat_2
+FieldNameAlt: Life-threatening
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: Event_Result_Medical_2
+FieldNameAlt: Important Medical Event
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: OccurrenceDuringTreatment_3
+FieldNameAlt: During treatment sessions
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: OccurrenceBetweenTreatment_3
+FieldNameAlt: Between treatment
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Text
+FieldName: Event_Date_3
+FieldNameAlt: MM/DD/YYYY
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: Event_Result_Hospitalization_3
+FieldNameAlt: Hospitalization
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: Event_Result_Disability_3
+FieldNameAlt: Disability or permanent damage
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: Event_Result_Death_3
+FieldNameAlt: Death
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: Event_Result_Life_Threat_3
+FieldNameAlt: Life-threatening
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: Event_Result_Medical_3
+FieldNameAlt: Important Medical Event
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: On
+---
+FieldType: Button
+FieldName: Event_Resolve_2
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: Event_Resolve_No
+FieldStateOption: Event_Resolve_Unknown
+FieldStateOption: Event_Resolve_Yes
+FieldStateOption: Off
+---
+FieldType: Button
+FieldName: Event_Resolve_3
+FieldFlags: 49152
+FieldJustification: Left
+FieldStateOption: Event_Resolve_No
+FieldStateOption: Event_Resolve_Unknown
+FieldStateOption: Event_Resolve_Yes
+FieldStateOption: Off
